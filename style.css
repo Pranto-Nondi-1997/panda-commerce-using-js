@@ -1,4 +1,39 @@
+/* navbar start here */
+
+.nav-bg-color {
+    background-color: #F8F9FA;
+}
+
+
 /* section 1 start here */
+
+.slide-height {
+    height: 455px;
+}
+
+.slide-img-sizing img {
+    width: 400px;
+    height: 390px;
+}
+
+.slide-bg-color {
+    background-color: #FCEAE8;
+}
+
+
+/* section 2 start here */
+
+.watch-bg-color {
+    background-color: #FFA500;
+}
+
+.bag-bg-color {
+    background-color: #DA70D6;
+}
+
+.shoes-bg-color {
+    background-color: #0000FF;
+}
 
 
 /* section 3 start here */
@@ -7,4 +42,23 @@
     border: none;
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
+}
+
+
+/* section 5 start here */
+
+#subscribe {
+    height: 300px;
+    background-color: #FCEAE8;
+}
+
+#subscribe h6 {
+    color: gray;
+}
+
+
+/* foooter start here */
+
+footer {
+    text-align: center;
 }
